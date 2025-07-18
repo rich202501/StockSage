@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import yfinance as yf
 import streamlit as st
+import os
 
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
