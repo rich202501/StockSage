@@ -3,4 +3,4 @@ openai
 yfinance
 pandas
 matplotlib
-plotly
+numpy
